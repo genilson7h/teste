@@ -1,5 +1,5 @@
 pais
-  chile
+  panama
 cor
   verde
 animal
